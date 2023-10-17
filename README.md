@@ -9,3 +9,5 @@ You can make latex equations
 $\frac{x}{y}$
 
 Make some changes
+
+How to deal with conflicts
